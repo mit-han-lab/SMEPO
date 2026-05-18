@@ -1,0 +1,10 @@
+name: smepo
+channels:
+  - conda-forge
+  - nodefaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+  - git-lfs
+  - pip
