@@ -1,7 +1,9 @@
 # SMEPO
 
 Official codebase for `Hide to Guide: Learning via Semantic Masking`.
+
 Paper: https://arxiv.org/abs/2605.25198
+
 Data: https://huggingface.co/datasets/mit-han-lab/SMEPO
 
 Semantic Masked Expert Policy Optimization (SMEPO) is an expert-guided RLVR method that masks reward-relevant semantic spans in expert traces while preserving their procedural structure. This repository provides code for data preparation, semantic masking, and training with masked or full expert-trace guidance.
